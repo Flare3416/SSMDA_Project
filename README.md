@@ -5,7 +5,6 @@
 **Institution:** Maharaja Agrasen Institute of Technology  
 **Subject:** Statistics, Statistical Modelling and Data Analytics (DA-304T)  
 **Semester:** 6  
-**Year of Study:** 2025-26  
 **Classes:** MLDA II (ABC)
 
 ### Team Members
