@@ -59,9 +59,12 @@ Thumbs.db
 .ipynb_checkpoints
 *.ipynb
 
-# Data files (optional - uncomment if you want to exclude data)
-# data/
-# *.csv
+# Data files
+data/
+*.csv
+
+# Kaggle import script
+kaggleimport.py
 
 # Testing
 .pytest_cache/
