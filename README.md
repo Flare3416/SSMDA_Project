@@ -6,7 +6,7 @@
 **Subject:** Statistics, Statistical Modelling and Data Analytics (DA-304T)  
 **Semester:** 6  
 **Year of Study:** 2025-26  
-**Classes:** MLDA/AIML-4/AIML-5  
+**Classes:** MLDA II (ABC)
 
 ### Team Members
 | Name | Enrollment Number |
